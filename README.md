@@ -7,6 +7,7 @@ This repository contains the material for the SAP TechEd 2021 session called: II
 ## Overview
 
 This session provides a complete Demo lesson with insights into SAP Enterprise Threat Detection, and how it helps to protect your SAP landscape.
+The PDF document in this folder provides the presentation which will be given in the session.
 
 ## Requirements
 
