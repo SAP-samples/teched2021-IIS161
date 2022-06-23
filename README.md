@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2021-IIS161)](https://api.reuse.software/info/github.com/SAP-samples/teched2021-IIS161)
+
 # IIS161 - Protect the Intelligent Enterprise with SAP Enterprise Threat Detection
 
 ## Description
